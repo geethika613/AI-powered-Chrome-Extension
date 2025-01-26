@@ -1,7 +1,5 @@
 # ReadMe
 
-## Demo Video Link for the Chrome Extension. 
-  https://drive.google.com/file/d/1cy2D-lzPTYwFHiJWvVJM-K2fWncqDuBs/view?usp=sharing
 
 ## Features
 
